@@ -1,5 +1,5 @@
 # Ultra-2020-Email-Design
-Responsive email design for The Ultra 2020 Music Festival created using HTML5 and in-style CSS. I made this to showcase my skills to an employer that inquired about email design/development. The idea was to come up with an email to advertise an event. I picked the upcoming music event Ultra 2020 and used their site as an example for the email design. 
+Responsive email design for The Ultra 2020 Music Festival created using HTML5 and in-style CSS. I made this to showcase my skills to an employer that inquired about email design/development. The idea was to come up with an email to advertise an event. I picked the upcoming music event Ultra 2020 and used their site as an example for the email design. It is mobile responsive for phones and tablets.
 
 
 ### Prerequisites
